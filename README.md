@@ -3,6 +3,8 @@
 This is a sample unit test that initiates a network of 2 nodes and 1 bootstrapper, ensure discovery among them and initiates a string reversal ping/pong game.
 
 The main purpose is to learn and show case how ethereum devp2p and protocols work.
+Some high level description on how discovery works can be found [here](docs/description.md)
+
 ## Requirements
 - Golang 1.13.x
 ## Resources
